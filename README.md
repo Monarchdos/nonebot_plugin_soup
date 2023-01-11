@@ -63,7 +63,9 @@ nonebot.load_plugin('nonebot_plugin_soup')
 
 <details>
 <summary>展开/收起</summary>
+
 ## **2023-01-11 V1.0.0**
+
 
   * 插件发布~
 
